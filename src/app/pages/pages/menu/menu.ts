@@ -15,7 +15,7 @@ import { MatButtonModule } from '@angular/material/button';
 export class Menu {
   menuItems = [
     {
-      image: '/peter-dawn-3X7SVgAxKU8-unsplash.jpg',
+      image: '/mae-mu-H5Hj8QV2Tx4-unsplash.jpg',
       title: 'Spicy Chicken Ramen',
       description: 'A fusion of flavor, heat, and comfort.',
       category: 'Main Course',
@@ -26,7 +26,7 @@ export class Menu {
       price: 8.99,
     },
     {
-      image: '/mae-mu-H5Hj8QV2Tx4-unsplash.jpg',
+      image: '  /peter-dawn-3X7SVgAxKU8-unsplash.jpg',
       title: 'Veggie Dumplings',
       description: 'Handmade, steamed, and served with love.',
       category: 'Appetizers',
