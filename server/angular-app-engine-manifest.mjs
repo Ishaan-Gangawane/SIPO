@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/SIPO',
   supportedLocales: {
   "en-US": ""
 },
